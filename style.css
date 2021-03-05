@@ -341,20 +341,20 @@ li {
   }
 
   .icon-bar {
-    left: 91%;
-    top: 87%;
+    left: 87.3%;
+    top: 78%;
   }
 
   .icon-bar a {
     padding: 0.5rem;
-    font-size: 2rem;
+    font-size: 3rem;
   }
 
   .to-top {
     position: fixed;
-    font-size: 3rem;
-    top: 95%;
-    left: 91%;
+    font-size: 4.2rem;
+    top: 90%;
+    left: 86.6%;
     opacity: 0.3;
   }
 
