@@ -327,6 +327,9 @@ li {
     margin-bottom: 2rem;
     font-size: 3.5rem;
   }
+  .header-info h2 {
+    font-size: 3rem;
+  }
   nav h1 {
     text-align: center;
   }
